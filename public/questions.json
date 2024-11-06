@@ -1,0 +1,248 @@
+[
+  {
+    "id": "001",
+    "question": "¿Qué es el clima?",
+    "options": [
+      { "letter": "A", "text": "La temperatura de un día específico" },
+      {
+        "letter": "B",
+        "text": "Las condiciones atmosféricas frecuentes en un lugar"
+      },
+      { "letter": "C", "text": "El estado de ánimo de la gente" },
+      { "letter": "D", "text": "La cantidad de vapor en el aire" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "002",
+    "question": "¿Cuál de estos es un elemento del clima?",
+    "options": [
+      { "letter": "A", "text": "Viento" },
+      { "letter": "B", "text": "Humedad" },
+      { "letter": "C", "text": "Temperatura" },
+      { "letter": "D", "text": "Todas las anteriores" }
+    ],
+    "rightAnswer": "D",
+    "isRight": false
+  },
+  {
+    "id": "003",
+    "question": "¿Qué instrumento mide la temperatura?",
+    "options": [
+      { "letter": "A", "text": "Termómetro" },
+      { "letter": "B", "text": "Higrómetro" },
+      { "letter": "C", "text": "Anemómetro" },
+      { "letter": "D", "text": "Barómetro" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
+  },
+  {
+    "id": "004",
+    "question": "¿Qué mide un pluviómetro?",
+    "options": [
+      { "letter": "A", "text": "La velocidad del viento" },
+      { "letter": "B", "text": "La cantidad de precipitación" },
+      { "letter": "C", "text": "La presión atmosférica" },
+      { "letter": "D", "text": "La temperatura" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "005",
+    "question": "¿Dónde se encuentra el clima oceánico en España?",
+    "options": [
+      { "letter": "A", "text": "Norte de la península" },
+      { "letter": "B", "text": "Zonas costeras del sur" },
+      { "letter": "C", "text": "Submeseta sur" },
+      { "letter": "D", "text": "Archipiélago canario" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
+  },
+  {
+    "id": "006",
+    "question": "¿Qué caracteriza al clima de montaña?",
+    "options": [
+      { "letter": "A", "text": "Temperaturas cálidas todo el año" },
+      { "letter": "B", "text": "Temperaturas frías y nieve en invierno" },
+      { "letter": "C", "text": "Precipitaciones escasas" },
+      { "letter": "D", "text": "Veranos secos y cálidos" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "007",
+    "question": "¿Qué mide el barómetro?",
+    "options": [
+      { "letter": "A", "text": "Humedad" },
+      { "letter": "B", "text": "Temperatura" },
+      { "letter": "C", "text": "Presión atmosférica" },
+      { "letter": "D", "text": "Velocidad del viento" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "008",
+    "question": "¿Qué clima tiene temperaturas extremas y lluvias en otoño y primavera?",
+    "options": [
+      { "letter": "A", "text": "Clima oceánico" },
+      { "letter": "B", "text": "Clima continental" },
+      { "letter": "C", "text": "Clima subtropical" },
+      { "letter": "D", "text": "Clima de montaña" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "009",
+    "question": "¿Qué instrumento mide la humedad?",
+    "options": [
+      { "letter": "A", "text": "Higrómetro" },
+      { "letter": "B", "text": "Anemómetro" },
+      { "letter": "C", "text": "Barómetro" },
+      { "letter": "D", "text": "Termómetro" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
+  },
+  {
+    "id": "010",
+    "question": "¿Cuál es el clima típico del archipiélago canario?",
+    "options": [
+      { "letter": "A", "text": "Clima oceánico" },
+      { "letter": "B", "text": "Clima mediterráneo" },
+      { "letter": "C", "text": "Clima subtropical" },
+      { "letter": "D", "text": "Clima de montaña" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "011",
+    "question": "¿Qué caracteriza al clima mediterráneo?",
+    "options": [
+      { "letter": "A", "text": "Inviernos templados y veranos cálidos" },
+      { "letter": "B", "text": "Temperaturas frescas todo el año" },
+      { "letter": "C", "text": "Inviernos fríos y veranos calurosos" },
+      { "letter": "D", "text": "Temperaturas extremas" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
+  },
+  {
+    "id": "012",
+    "question": "¿Qué herramienta mide la dirección del viento?",
+    "options": [
+      { "letter": "A", "text": "Anemómetro" },
+      { "letter": "B", "text": "Veleta" },
+      { "letter": "C", "text": "Pluviómetro" },
+      { "letter": "D", "text": "Barómetro" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "013",
+    "question": "¿En qué zona se encuentra el clima continental-mediterráneo?",
+    "options": [
+      { "letter": "A", "text": "Norte de España" },
+      { "letter": "B", "text": "Submeseta sur y Andalucía" },
+      { "letter": "C", "text": "Zona costera del sur" },
+      { "letter": "D", "text": "Archipiélago canario" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "014",
+    "question": "¿Qué se representa en un climograma?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "La evolución anual de temperaturas y precipitaciones"
+      },
+      { "letter": "B", "text": "El viento y la humedad" },
+      { "letter": "C", "text": "La presión atmosférica" },
+      { "letter": "D", "text": "La dirección del viento" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
+  },
+  {
+    "id": "015",
+    "question": "¿Qué instrumento mide la velocidad del viento?",
+    "options": [
+      { "letter": "A", "text": "Higrómetro" },
+      { "letter": "B", "text": "Anemómetro" },
+      { "letter": "C", "text": "Barómetro" },
+      { "letter": "D", "text": "Termómetro" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "016",
+    "question": "¿Qué caracteriza al clima oceánico?",
+    "options": [
+      { "letter": "A", "text": "Inviernos fríos y veranos calurosos" },
+      { "letter": "B", "text": "Precipitaciones escasas" },
+      { "letter": "C", "text": "Precipitaciones abundantes todo el año" },
+      { "letter": "D", "text": "Temperaturas extremas" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "017",
+    "question": "¿Cuál de estos climas tiene precipitaciones irregulares?",
+    "options": [
+      { "letter": "A", "text": "Clima mediterráneo" },
+      { "letter": "B", "text": "Clima oceánico" },
+      { "letter": "C", "text": "Clima de montaña" },
+      { "letter": "D", "text": "Clima continental" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
+  },
+  {
+    "id": "018",
+    "question": "¿Qué instrumento mide la presión atmosférica?",
+    "options": [
+      { "letter": "A", "text": "Higrómetro" },
+      { "letter": "B", "text": "Barómetro" },
+      { "letter": "C", "text": "Anemómetro" },
+      { "letter": "D", "text": "Termómetro" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "019",
+    "question": "¿Qué clima se encuentra en zonas de alta montaña?",
+    "options": [
+      { "letter": "A", "text": "Clima oceánico" },
+      { "letter": "B", "text": "Clima de montaña" },
+      { "letter": "C", "text": "Clima subtropical" },
+      { "letter": "D", "text": "Clima mediterráneo" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "020",
+    "question": "¿Qué mide el anemómetro?",
+    "options": [
+      { "letter": "A", "text": "La velocidad del viento" },
+      { "letter": "B", "text": "La presión atmosférica" },
+      { "letter": "C", "text": "La humedad" },
+      { "letter": "D", "text": "La cantidad de precipitación" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
+  }
+]

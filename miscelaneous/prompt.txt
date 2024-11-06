@@ -1,0 +1,30 @@
+En base a esas imagenes hacer un resumen y ademas extraer un test de 20 preguntas que siga el JSON eschema proporcionado a continuacion:
+
+
+
+[
+  {
+    "id": "001",
+
+    "question": "¿Cual es la capital de Francia?",
+    "options": [
+      { "letter": "A", "text": "Berlin" },
+      { "letter": "B", "text": "Madrid" },
+      { "letter": "C", "text": "Paris" },
+      { "letter": "D", "text": "Rome" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "002",
+    "question": "¿cuanto son 2 + 2?",
+    "options": [
+      { "letter": "A", "text": "3" },
+      { "letter": "B", "text": "4" },
+      { "letter": "C", "text": "5" },
+      { "letter": "D", "text": "6" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  }]
