@@ -37,7 +37,24 @@ export const useQuestionsStore = defineStore('questions', {
       try {
         const response = await fetch('/questions.json')
         const data = await response.json()
-        this.questions.splice(0, this.questions.length, ...data)
+        console.log(data)
+        const keepOnly30RandomUniqueQuestions = data
+          .sort(() => 0.5 - Math.random())
+          .slice(0, 30)
+          .filter((question, index, self) => {
+            return (
+              self.findIndex(
+                q =>
+                  q.question.toLowerCase() === question.question.toLowerCase(),
+              ) === index
+            )
+          })
+
+        this.questions.splice(
+          0,
+          this.questions.length,
+          ...keepOnly30RandomUniqueQuestions,
+        )
 
         return this.questions
       } catch (error) {

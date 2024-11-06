@@ -1,6 +1,6 @@
 <template>
     <div id="exam-header">
-        <h2 id="title-text">Test 20 preguntas</h2><img id="exam-icon" src="/apple-touch-icon.png" alt="exam-icon">
+        <h2 id="title-text">Test 30 preguntas</h2><img id="exam-icon" src="/apple-touch-icon.png" alt="exam-icon">
     </div>
 
 </template>

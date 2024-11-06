@@ -55,6 +55,56 @@
                     gráficamente la evolución anual de las temperaturas y precipitaciones
                     en una región específica.
                 </p>
+                <h2>Factores climaticos</h2>ç
+                <p>
+                    Los factores climáticos son los elementos que influyen en el clima de una zona. Entre ellos se
+                    encuentran:
+                </p>
+                <ul>
+                    <li><strong>Latitud:</strong> Es la distancia de un punto de la Tierra respecto al ecuador. A menor
+                        latitud (más cerca del ecuador), el clima es más cálido. A mayor latitud (más lejos del
+                        ecuador), el clima es más frío.</li>
+                    <li><strong>Altitud:</strong> La altitud es la altura sobre el nivel del mar. A mayor altitud, la
+                        temperatura disminuye aproximadamente 1°C cada 100 metros.</li>
+                    <li><strong>Influencia del mar:</strong> Las zonas cercanas al mar tienen un clima más suave, ya que
+                        el agua del mar se calienta y enfría más lentamente que la tierra, lo que regula la temperatura
+                        y afecta la humedad y el viento.</li>
+                    <li><strong>Relieve:</strong> Las montañas y otras formaciones geográficas influyen en el clima. Las
+                        montañas, por ejemplo, pueden frenar el paso de los vientos y las nubes, afectando el clima en
+                        áreas cercanas.</li>
+                </ul>
+                <h2>El Paisaje</h2>
+                <p>
+                    El paisaje es una área de la superficie terrestre que resulta de la interacción de varios factores
+                    como el clima, flora, fauna y relieve. En España, diversos factores climáticos y naturales
+                    configuran diferentes tipos de paisajes, cada uno caracterizado por sus condiciones climáticas y
+                    vegetación distintiva.
+                </p>
+                <p>
+                    <strong>Paisaje de transición:</strong> Común en zonas de clima continental y
+                    mediterráneo-continental, con árboles de hoja caduca y perenne adaptados a sequías estivales.
+                </p>
+                <p>
+                    <strong>Paisaje oceánico:</strong> Ubicado en zonas de clima oceánico, como el norte de España,
+                    conocido por su vegetación abundante debido a las frecuentes precipitaciones. Los árboles son altos
+                    y de hoja caduca.
+                </p>
+                <p>
+                    <strong>Paisaje de montaña:</strong> Se extiende desde el límite superior de un bosque hasta la cima
+                    de las montañas. La vegetación es escasa, con musgos y pequeños matorrales debido a las bajas
+                    temperaturas y condiciones extremas.
+                </p>
+                <p>
+                    <strong>Paisaje mediterráneo:</strong> Encontrado en zonas de clima mediterráneo, con vegetación de
+                    hoja perenne como pinos y encinas, adaptada a la escasez de lluvias y altas temperaturas.
+                </p>
+                <p>
+                    <strong>Paisaje canario:</strong> Característico del archipiélago canario, influido por el clima
+                    subtropical. Incluye bosques de laurisilva en zonas húmedas y plantas como el drago y la palmera
+                    canaria en áreas áridas.
+                </p>
+
+
             </section>
         </div>
     </div>

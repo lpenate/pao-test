@@ -244,5 +244,494 @@
     ],
     "rightAnswer": "A",
     "isRight": false
+  },
+  {
+    "id": "021",
+    "question": "¿Qué factores configuran un paisaje?",
+    "options": [
+      { "letter": "A", "text": "Solo el clima" },
+      { "letter": "B", "text": "Clima, flora, fauna y relieve" },
+      { "letter": "C", "text": "Únicamente la altitud" },
+      { "letter": "D", "text": "Solo el clima y la fauna" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "022",
+    "question": "¿Dónde se encuentra el paisaje de transición?",
+    "options": [
+      { "letter": "A", "text": "En zonas de clima oceánico" },
+      {
+        "letter": "B",
+        "text": "En zonas de clima continental y mediterráneo-continental"
+      },
+      { "letter": "C", "text": "En el archipiélago canario" },
+      { "letter": "D", "text": "En zonas de clima mediterráneo" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "023",
+    "question": "¿Qué tipo de vegetación caracteriza al paisaje de montaña?",
+    "options": [
+      { "letter": "A", "text": "Árboles altos de hoja perenne" },
+      { "letter": "B", "text": "Musgos y pequeños matorrales" },
+      { "letter": "C", "text": "Laurisilva" },
+      { "letter": "D", "text": "Árboles de hoja caduca" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "024",
+    "question": "¿Por qué el paisaje oceánico se llama 'España verde'?",
+    "options": [
+      { "letter": "A", "text": "Por sus altas temperaturas" },
+      { "letter": "B", "text": "Por la abundancia de vegetación y lluvias" },
+      { "letter": "C", "text": "Porque tiene un clima árido" },
+      { "letter": "D", "text": "Por la cantidad de montañas" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "025",
+    "question": "¿Qué árboles predominan en el paisaje mediterráneo?",
+    "options": [
+      { "letter": "A", "text": "Árboles de hoja caduca como el haya" },
+      { "letter": "B", "text": "Laurisilva y palmeras" },
+      { "letter": "C", "text": "Pinos y encinas de hoja perenne" },
+      { "letter": "D", "text": "Musgos y matorrales pequeños" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "026",
+    "question": "¿Dónde podemos encontrar el paisaje oceánico en España?",
+    "options": [
+      { "letter": "A", "text": "En el sur de España" },
+      { "letter": "B", "text": "En el norte de España" },
+      { "letter": "C", "text": "En el archipiélago canario" },
+      { "letter": "D", "text": "En las zonas de clima mediterráneo" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "027",
+    "question": "¿Qué caracteriza al paisaje canario?",
+    "options": [
+      { "letter": "A", "text": "Clima continental" },
+      { "letter": "B", "text": "Clima oceánico" },
+      { "letter": "C", "text": "Clima subtropical" },
+      { "letter": "D", "text": "Clima mediterráneo" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "028",
+    "question": "¿Qué vegetación es característica de las zonas húmedas en el paisaje canario?",
+    "options": [
+      { "letter": "A", "text": "Palmera canaria" },
+      { "letter": "B", "text": "Laurisilva" },
+      { "letter": "C", "text": "Musgos" },
+      { "letter": "D", "text": "Encinas" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "029",
+    "question": "¿Qué es un paisaje de montaña?",
+    "options": [
+      { "letter": "A", "text": "Una zona con árboles altos y frondosos" },
+      {
+        "letter": "B",
+        "text": "Un área donde la vegetación es escasa debido al clima extremo"
+      },
+      {
+        "letter": "C",
+        "text": "Una región con abundantes lluvias y vegetación verde"
+      },
+      { "letter": "D", "text": "Un área árida con palmeras" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "030",
+    "question": "¿Qué tipo de árboles encontramos en el paisaje de transición?",
+    "options": [
+      { "letter": "A", "text": "Solo árboles de hoja caduca" },
+      { "letter": "B", "text": "Árboles de hoja caduca y perenne" },
+      { "letter": "C", "text": "Solo árboles de hoja perenne" },
+      { "letter": "D", "text": "Musgos y matorrales" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "031",
+    "question": "¿Qué tipo de clima tiene el paisaje oceánico?",
+    "options": [
+      { "letter": "A", "text": "Subtropical" },
+      { "letter": "B", "text": "Mediterráneo" },
+      { "letter": "C", "text": "Continental" },
+      { "letter": "D", "text": "Oceánico" }
+    ],
+    "rightAnswer": "D",
+    "isRight": false
+  },
+  {
+    "id": "032",
+    "question": "¿Cuál es una característica de los árboles en el paisaje mediterráneo?",
+    "options": [
+      { "letter": "A", "text": "Pierden sus hojas en otoño" },
+      { "letter": "B", "text": "Son de gran altura" },
+      { "letter": "C", "text": "Son de hoja perenne y de altura baja" },
+      { "letter": "D", "text": "Crecen solo en invierno" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "033",
+    "question": "¿Qué planta es común en las zonas áridas del paisaje canario?",
+    "options": [
+      { "letter": "A", "text": "Laurisilva" },
+      { "letter": "B", "text": "Encinas" },
+      { "letter": "C", "text": "Drago" },
+      { "letter": "D", "text": "Pinos" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "034",
+    "question": "¿En qué tipo de clima se encuentra el paisaje de transición?",
+    "options": [
+      { "letter": "A", "text": "Subtropical" },
+      { "letter": "B", "text": "Oceánico" },
+      { "letter": "C", "text": "Continental y mediterráneo-continental" },
+      { "letter": "D", "text": "Mediterráneo" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "035",
+    "question": "¿Cuál es el principal tipo de vegetación en el paisaje de montaña?",
+    "options": [
+      { "letter": "A", "text": "Árboles de hoja caduca" },
+      { "letter": "B", "text": "Pinos y encinas" },
+      { "letter": "C", "text": "Musgos y pequeños matorrales" },
+      { "letter": "D", "text": "Palmeras" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "036",
+    "question": "¿Qué tipo de paisaje se asocia con el clima oceánico?",
+    "options": [
+      { "letter": "A", "text": "Paisaje canario" },
+      { "letter": "B", "text": "Paisaje mediterráneo" },
+      { "letter": "C", "text": "Paisaje de montaña" },
+      { "letter": "D", "text": "Paisaje oceánico" }
+    ],
+    "rightAnswer": "D",
+    "isRight": false
+  },
+  {
+    "id": "037",
+    "question": "¿Qué distingue al paisaje de montaña en términos de vegetación?",
+    "options": [
+      { "letter": "A", "text": "Árboles altos y frondosos" },
+      { "letter": "B", "text": "Vegetación escasa y musgos" },
+      { "letter": "C", "text": "Laurisilva" },
+      { "letter": "D", "text": "Drago y palmera canaria" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "038",
+    "question": "¿Cuál es un árbol común en el paisaje oceánico?",
+    "options": [
+      { "letter": "A", "text": "Encina" },
+      { "letter": "B", "text": "Pino" },
+      { "letter": "C", "text": "Roble" },
+      { "letter": "D", "text": "Drago" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "039",
+    "question": "¿Qué vegetación caracteriza al paisaje canario en zonas húmedas?",
+    "options": [
+      { "letter": "A", "text": "Laurisilva" },
+      { "letter": "B", "text": "Pinos" },
+      { "letter": "C", "text": "Encinas" },
+      { "letter": "D", "text": "Musgos" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
+  },
+  {
+    "id": "040",
+    "question": "¿Qué es común en la vegetación del paisaje mediterráneo?",
+    "options": [
+      { "letter": "A", "text": "Árboles de gran altura" },
+      { "letter": "B", "text": "Árboles de hoja caduca" },
+      { "letter": "C", "text": "Árboles de hoja perenne" },
+      { "letter": "D", "text": "Musgos y pequeños matorrales" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "041",
+    "question": "¿Qué es la latitud?",
+    "options": [
+      { "letter": "A", "text": "La distancia respecto al nivel del mar" },
+      { "letter": "B", "text": "La distancia de un punto respecto al ecuador" },
+      { "letter": "C", "text": "La altura de una montaña" },
+      { "letter": "D", "text": "La influencia del mar en el clima" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "042",
+    "question": "¿Cómo afecta la altitud a la temperatura?",
+    "options": [
+      { "letter": "A", "text": "La temperatura aumenta 1°C cada 100 metros" },
+      { "letter": "B", "text": "La temperatura disminuye 1°C cada 100 metros" },
+      { "letter": "C", "text": "La altitud no afecta la temperatura" },
+      { "letter": "D", "text": "Depende de la latitud" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "043",
+    "question": "¿Cuál de los siguientes factores regula la temperatura de zonas cercanas?",
+    "options": [
+      { "letter": "A", "text": "Relieve" },
+      { "letter": "B", "text": "Altitud" },
+      { "letter": "C", "text": "Influencia del mar" },
+      { "letter": "D", "text": "Latitud" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "044",
+    "question": "¿Qué sucede con el clima en zonas cercanas al ecuador?",
+    "options": [
+      { "letter": "A", "text": "Es más frío" },
+      { "letter": "B", "text": "Es más cálido" },
+      { "letter": "C", "text": "No tiene cambios de temperatura" },
+      { "letter": "D", "text": "Es más extremo" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "045",
+    "question": "¿Qué factor climático se relaciona con la altura sobre el nivel del mar?",
+    "options": [
+      { "letter": "A", "text": "Relieve" },
+      { "letter": "B", "text": "Latitud" },
+      { "letter": "C", "text": "Altitud" },
+      { "letter": "D", "text": "Influencia del mar" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "046",
+    "question": "¿Cómo afectan las montañas al clima?",
+    "options": [
+      { "letter": "A", "text": "Calientan las zonas cercanas" },
+      { "letter": "B", "text": "Enfrían las zonas cercanas" },
+      { "letter": "C", "text": "Frenan el paso de vientos y nubes" },
+      { "letter": "D", "text": "No afectan al clima" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "047",
+    "question": "¿Qué temperatura promedio se espera a 2000 metros de altitud?",
+    "options": [
+      { "letter": "A", "text": "20°C" },
+      { "letter": "B", "text": "16°C" },
+      { "letter": "C", "text": "10°C" },
+      { "letter": "D", "text": "5°C" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "048",
+    "question": "¿Qué es el relieve?",
+    "options": [
+      { "letter": "A", "text": "Las variaciones de temperatura en una región" },
+      { "letter": "B", "text": "La distancia respecto al ecuador" },
+      { "letter": "C", "text": "Las formas de la corteza terrestre" },
+      { "letter": "D", "text": "La proximidad al mar" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "049",
+    "question": "¿Qué tipo de clima es común en zonas montañosas?",
+    "options": [
+      { "letter": "A", "text": "Más cálido" },
+      { "letter": "B", "text": "Más extremo" },
+      { "letter": "C", "text": "Más húmedo" },
+      { "letter": "D", "text": "Más suave" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "050",
+    "question": "¿Qué factor disminuye la temperatura en zonas altas?",
+    "options": [
+      { "letter": "A", "text": "Latitud" },
+      { "letter": "B", "text": "Altitud" },
+      { "letter": "C", "text": "Relieve" },
+      { "letter": "D", "text": "Influencia del mar" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "051",
+    "question": "¿Qué efecto tiene el agua del mar en el clima de una región cercana?",
+    "options": [
+      { "letter": "A", "text": "Hace el clima más frío" },
+      { "letter": "B", "text": "Hace el clima más cálido" },
+      { "letter": "C", "text": "Suaviza el clima" },
+      { "letter": "D", "text": "No afecta el clima" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "052",
+    "question": "¿Cuál es el clima más común en zonas cercanas al mar?",
+    "options": [
+      { "letter": "A", "text": "Clima más extremo" },
+      { "letter": "B", "text": "Clima más seco" },
+      { "letter": "C", "text": "Clima más suave" },
+      { "letter": "D", "text": "Clima más frío" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "053",
+    "question": "¿Qué provoca la altitud en el clima de una montaña?",
+    "options": [
+      { "letter": "A", "text": "Temperaturas más altas" },
+      { "letter": "B", "text": "Temperaturas más bajas" },
+      { "letter": "C", "text": "Más humedad" },
+      { "letter": "D", "text": "Más viento" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "054",
+    "question": "¿Qué sucede en una región conforme se aleja del ecuador?",
+    "options": [
+      { "letter": "A", "text": "El clima se vuelve más cálido" },
+      { "letter": "B", "text": "El clima se vuelve más húmedo" },
+      { "letter": "C", "text": "El clima se vuelve más frío" },
+      { "letter": "D", "text": "No hay cambios en el clima" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "055",
+    "question": "¿Cuál de los siguientes es un factor que afecta el clima?",
+    "options": [
+      { "letter": "A", "text": "Latitud" },
+      { "letter": "B", "text": "Altitud" },
+      { "letter": "C", "text": "Relieve" },
+      { "letter": "D", "text": "Todos los anteriores" }
+    ],
+    "rightAnswer": "D",
+    "isRight": false
+  },
+  {
+    "id": "056",
+    "question": "¿Cuál es la temperatura promedio a 500 metros de altitud?",
+    "options": [
+      { "letter": "A", "text": "20°C" },
+      { "letter": "B", "text": "16°C" },
+      { "letter": "C", "text": "10°C" },
+      { "letter": "D", "text": "5°C" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
+  },
+  {
+    "id": "057",
+    "question": "¿Qué factor provoca temperaturas suaves en zonas costeras?",
+    "options": [
+      { "letter": "A", "text": "Altitud" },
+      { "letter": "B", "text": "Latitud" },
+      { "letter": "C", "text": "Influencia del mar" },
+      { "letter": "D", "text": "Relieve" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "058",
+    "question": "¿Qué efecto tienen las montañas sobre el viento?",
+    "options": [
+      { "letter": "A", "text": "Aumentan su velocidad" },
+      { "letter": "B", "text": "Frenan su paso" },
+      { "letter": "C", "text": "No afectan el viento" },
+      { "letter": "D", "text": "Cambian su dirección" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "059",
+    "question": "¿Qué ocurre con el clima en una región a mayor altitud?",
+    "options": [
+      { "letter": "A", "text": "Es más cálido" },
+      { "letter": "B", "text": "Es más frío" },
+      { "letter": "C", "text": "No cambia" },
+      { "letter": "D", "text": "Es más húmedo" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "060",
+    "question": "¿Qué clima es común en zonas alejadas del mar?",
+    "options": [
+      { "letter": "A", "text": "Más extremo" },
+      { "letter": "B", "text": "Más suave" },
+      { "letter": "C", "text": "Más húmedo" },
+      { "letter": "D", "text": "Más frío" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
   }
 ]
