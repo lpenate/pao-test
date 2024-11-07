@@ -1,6 +1,9 @@
 import { defineStore } from 'pinia'
 import { reactive } from 'vue'
 
+const keepOnly30RandomUniqueQuestions = data =>
+  data.sort(() => 0.5 - Math.random()).slice(0, 30)
+
 export const useQuestionsStore = defineStore('questions', {
   state: () => {
     return {
@@ -38,22 +41,11 @@ export const useQuestionsStore = defineStore('questions', {
         const response = await fetch('/questions.json')
         const data = await response.json()
         console.log(data)
-        const keepOnly30RandomUniqueQuestions = data
-          .sort(() => 0.5 - Math.random())
-          .slice(0, 30)
-          .filter((question, index, self) => {
-            return (
-              self.findIndex(
-                q =>
-                  q.question.toLowerCase() === question.question.toLowerCase(),
-              ) === index
-            )
-          })
 
         this.questions.splice(
           0,
           this.questions.length,
-          ...keepOnly30RandomUniqueQuestions,
+          ...keepOnly30RandomUniqueQuestions(data),
         )
 
         return this.questions

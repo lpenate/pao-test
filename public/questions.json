@@ -733,5 +733,251 @@
     ],
     "rightAnswer": "A",
     "isRight": false
+  },
+  {
+    "id": "061",
+    "question": "¿Qué es la atmósfera?",
+    "options": [
+      { "letter": "A", "text": "La capa de rocas en el suelo" },
+      { "letter": "B", "text": "La capa de gases que rodea la Tierra" },
+      { "letter": "C", "text": "Una capa de agua en el océano" },
+      { "letter": "D", "text": "La capa de aire en los polos" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "062",
+    "question": "¿Por qué es importante la atmósfera?",
+    "options": [
+      { "letter": "A", "text": "Protege la vida en la Tierra" },
+      { "letter": "B", "text": "Produce luz solar" },
+      { "letter": "C", "text": "Crea el agua de los océanos" },
+      { "letter": "D", "text": "Aumenta la temperatura del planeta" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
+  },
+  {
+    "id": "063",
+    "question": "¿Qué son los fenómenos atmosféricos?",
+    "options": [
+      { "letter": "A", "text": "Eventos que ocurren en la atmósfera" },
+      { "letter": "B", "text": "Movimientos de placas tectónicas" },
+      { "letter": "C", "text": "Eventos en el espacio" },
+      { "letter": "D", "text": "Reacciones químicas en el suelo" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
+  },
+  {
+    "id": "064",
+    "question": "¿Qué fenómeno produce el arcoíris?",
+    "options": [
+      { "letter": "A", "text": "Condensación de agua" },
+      { "letter": "B", "text": "La interacción de la luz con gotas de lluvia" },
+      { "letter": "C", "text": "Movimientos del viento" },
+      { "letter": "D", "text": "La luz reflejada en el suelo" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "065",
+    "question": "¿Cómo se forman las nubes?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cuando el aire se enfría y el vapor de agua se condensa"
+      },
+      { "letter": "B", "text": "Por la evaporación del agua en el suelo" },
+      { "letter": "C", "text": "Cuando las hojas caen de los árboles" },
+      { "letter": "D", "text": "Por la interacción entre el sol y la luna" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
+  },
+  {
+    "id": "066",
+    "question": "¿Qué tipo de precipitación es sólida?",
+    "options": [
+      { "letter": "A", "text": "La lluvia" },
+      { "letter": "B", "text": "La niebla" },
+      { "letter": "C", "text": "El granizo" },
+      { "letter": "D", "text": "El rocío" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "067",
+    "question": "¿Qué determina el tiempo atmosférico?",
+    "options": [
+      { "letter": "A", "text": "El clima en todo el planeta" },
+      {
+        "letter": "B",
+        "text": "El estado de la atmósfera en un lugar y momento específicos"
+      },
+      { "letter": "C", "text": "La posición de las estrellas" },
+      { "letter": "D", "text": "La ubicación de las montañas" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "068",
+    "question": "¿Cuál es el clima predominante en la Comunidad de Madrid?",
+    "options": [
+      { "letter": "A", "text": "Tropical" },
+      { "letter": "B", "text": "Continental" },
+      { "letter": "C", "text": "Oceánico" },
+      { "letter": "D", "text": "Polar" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "069",
+    "question": "¿Qué clima se encuentra en las zonas montañosas de Madrid?",
+    "options": [
+      { "letter": "A", "text": "Desértico" },
+      { "letter": "B", "text": "Mediterráneo" },
+      { "letter": "C", "text": "Montaña" },
+      { "letter": "D", "text": "Tropical" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "070",
+    "question": "¿Qué tipo de vegetación es típica en el clima de montaña en Madrid?",
+    "options": [
+      { "letter": "A", "text": "Cactus" },
+      { "letter": "B", "text": "Palmeras" },
+      { "letter": "C", "text": "Pinos y encinas" },
+      { "letter": "D", "text": "Helechos tropicales" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "071",
+    "question": "¿Cuál es la principal función de los mapas meteorológicos?",
+    "options": [
+      { "letter": "A", "text": "Predecir el estado del tiempo" },
+      { "letter": "B", "text": "Medir la altura de las montañas" },
+      { "letter": "C", "text": "Determinar la cantidad de luz solar" },
+      { "letter": "D", "text": "Contar las nubes" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
+  },
+  {
+    "id": "072",
+    "question": "¿Qué factor NO es parte del tiempo atmosférico?",
+    "options": [
+      { "letter": "A", "text": "Temperatura" },
+      { "letter": "B", "text": "Precipitación" },
+      { "letter": "C", "text": "Tipo de suelo" },
+      { "letter": "D", "text": "Viento" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "073",
+    "question": "¿Qué ocurre cuando el aire en la atmósfera se mueve debido a cambios de temperatura?",
+    "options": [
+      { "letter": "A", "text": "Se forman nubes" },
+      { "letter": "B", "text": "Se producen corrientes de viento" },
+      { "letter": "C", "text": "Cae granizo" },
+      { "letter": "D", "text": "Aumenta la presión" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "074",
+    "question": "¿Cómo se describe el clima continental en Madrid?",
+    "options": [
+      { "letter": "A", "text": "Con veranos frescos y mucha lluvia" },
+      { "letter": "B", "text": "Con inviernos suaves y veranos húmedos" },
+      { "letter": "C", "text": "Con veranos calurosos e inviernos fríos" },
+      { "letter": "D", "text": "Con temperaturas estables todo el año" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "075",
+    "question": "¿Qué fenómeno atmosférico se produce por la condensación de vapor de agua?",
+    "options": [
+      { "letter": "A", "text": "El viento" },
+      { "letter": "B", "text": "Las nubes" },
+      { "letter": "C", "text": "El granizo" },
+      { "letter": "D", "text": "La nieve" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "076",
+    "question": "¿Qué tipo de vegetación es común en el clima continental de Madrid?",
+    "options": [
+      { "letter": "A", "text": "Laurisilva" },
+      { "letter": "B", "text": "Pinos y encinas" },
+      { "letter": "C", "text": "Palmeras" },
+      { "letter": "D", "text": "Helechos" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "077",
+    "question": "¿En qué zonas se encuentran los pinos y encinas en Madrid?",
+    "options": [
+      { "letter": "A", "text": "En las zonas de clima continental" },
+      { "letter": "B", "text": "En las zonas costeras" },
+      { "letter": "C", "text": "En las zonas de montaña" },
+      { "letter": "D", "text": "En áreas tropicales" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "078",
+    "question": "¿Qué tipo de clima tiene la zona montañosa de Madrid?",
+    "options": [
+      { "letter": "A", "text": "Subtropical" },
+      { "letter": "B", "text": "Continental" },
+      { "letter": "C", "text": "De montaña" },
+      { "letter": "D", "text": "Mediterráneo" }
+    ],
+    "rightAnswer": "C",
+    "isRight": false
+  },
+  {
+    "id": "079",
+    "question": "¿Cuál es uno de los efectos del viento en la atmósfera?",
+    "options": [
+      { "letter": "A", "text": "Aumenta la humedad" },
+      { "letter": "B", "text": "Dispersa las nubes" },
+      { "letter": "C", "text": "Crea nieve" },
+      { "letter": "D", "text": "Disminuye la presión" }
+    ],
+    "rightAnswer": "B",
+    "isRight": false
+  },
+  {
+    "id": "080",
+    "question": "¿Qué fenómeno atmosférico se describe como una interacción de la luz solar con gotas de agua?",
+    "options": [
+      { "letter": "A", "text": "El arcoíris" },
+      { "letter": "B", "text": "El granizo" },
+      { "letter": "C", "text": "La neblina" },
+      { "letter": "D", "text": "El relámpago" }
+    ],
+    "rightAnswer": "A",
+    "isRight": false
   }
 ]
